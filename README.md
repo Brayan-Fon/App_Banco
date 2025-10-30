@@ -124,5 +124,5 @@ Mensajes claros guían al usuario ante errores comunes.
 
 ---
 
-## 💾 Ejemplo de uso
+
 
